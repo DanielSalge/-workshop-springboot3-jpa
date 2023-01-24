@@ -8,7 +8,7 @@ Web Services com Spring Boot e JPA/Hibernate é uma aplicação backend desenvol
 A aplicação consiste em um webservice divididos em camadas das quais são: Resource Layer(rest controller) que recebe as requisições e irão responder de acordo com o comportamento do sistema; Service Layer; e Data Access Layer(data repositories). Todas as camada anteriormente citadas comunicam-se com as entidades do projeto. 
 
 ## Modelo de Domínio
-![Domain Model](https://github.com/DanielSalge/assets/blob/main/logical%20layers.png)
+![Domain Model]([https://github.com/DanielSalge/assets/blob/main/logical%20layers.png](https://github.com/DanielSalge/assets/blob/main/modelo%20de%20dominio.png))
 
 ## Instância de Domínio
 ![Domain Instance](https://github.com/DanielSalge/assets/blob/main/modelo%20de%20instanciação.png)
