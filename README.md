@@ -23,6 +23,7 @@ A aplicação consiste em um webservice divididos em camadas das quais são: Res
 - JPA / Hibernate
 - Maven
 ## Implantação em produção
+- Back end: Heroku
 - Banco de dados: Postgresql
 
 # Como executar o projeto
